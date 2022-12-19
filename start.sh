@@ -22,7 +22,7 @@ echo "${RED}
 ┊┊★ * SIGA NO INSTAGRAM @YURI.ARCEU
 ┊┊* . * ✦ DÊ SUGESTÕES PARA ADICIONAR NA
 ┊☆ ° ✧ AKAME  
-★*"
+★* [vim pelo canal do p7]"
 node index.js 
 sleep 1      
 done
